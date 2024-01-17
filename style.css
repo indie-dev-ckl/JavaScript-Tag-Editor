@@ -1,0 +1,16 @@
+
+ol, ul {
+    list-style: outside none none;
+}
+
+.tags {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+.tags li.addedTag {
+    background: none repeat scroll 0 0 #019f86;
+    color: #fff;
+}
+
